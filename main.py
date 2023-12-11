@@ -1,4 +1,3 @@
-
 import pygame 
 from screen.Screen import Screen
 

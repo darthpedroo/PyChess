@@ -10,5 +10,5 @@ class Board:
         for row in range(1,self.rows):
             for col in range(1,self.columns):
                 Tile().drawTile(surface,col,row,self.LeftCorner)
-
+    
 
